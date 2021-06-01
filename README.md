@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hey! <img src="./Hey.gif" width="30px">, I'm Akshett Rai Jindal</h1>
 
-<!--
-**akshettrj-iiith/akshettrj-iiith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate developer from India.</h3>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a target="_blank" href="https://mailhide.io/e/w4vjJE5Y"><img src="https://img.shields.io/badge/Email-Reveal-2a8?&logo=gmail&logoColor=white" alt="Akshett's Email" /></a>
+  <a target="_blank" href="https://github.com/akshettrj"><img src="https://komarev.com/ghpvc/?username=akshettrj&label=Profile%20Views" alt="Akshett's Profile Views" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li><b>My Site</b>: <a target="_blank" href="https://akshettrj.github.io/">Click Here</a></li>
+</ul>
+
+
+<p align="center">
+  <a target="_blank" href="https://github.com/akshettrj">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akshettrj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blueberry" alt="Akshett's GitHub Stats" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshettrj&layout=compact&hide_border=true&theme=blueberry" alt="Akshett's Top Languages" />
+  </a>
+</p>
