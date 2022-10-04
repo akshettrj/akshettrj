@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshettrj/)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akshett.rai/)
-[![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/init.lua/)
-
 
 
 <p align="center">
