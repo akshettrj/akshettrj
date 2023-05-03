@@ -1,7 +1,7 @@
 <h1 align="center">Hey! <img src="./Hey.gif" width="30px">, I'm Aᴋsʜᴇᴛᴛ Rᴀɪ Jɪɴᴅᴀʟ</h1>
 
 * I am a Computer Science Undergraduate at <a href="https://iiit.ac.in">IIIT Hʏᴅᴇʀᴀʙᴀᴅ</a> along with pursuing Masters in NLP.
-* Some of my key skills include - C, C++, Assᴇᴍʙʟʏ (x86), Pʏᴛʜᴏɴ, JᴀᴠᴀSᴄʀɪᴘᴛ, Nᴏᴅᴇ.JS, Gɪᴛ, Lɪɴᴜx, Vɪᴍ, SQL, MᴏɴɢᴏDB, GᴏLᴀɴɢ, Lᴜᴀ
+* Some of my key skills include - C, C++, Assᴇᴍʙʟʏ (x86), Pʏᴛʜᴏɴ, JᴀᴠᴀSᴄʀɪᴘᴛ, Nᴏᴅᴇ.JS, Gɪᴛ, Lɪɴᴜx, Vɪᴍ, SQL, MᴏɴɢᴏDB, GᴏLᴀɴɢ, Lᴜᴀ, Rᴜsᴛ
 * Check out my project <a href="https://github.com/akshettrj/watgbridge">WaTgBridge</a> (Read and reply to your WhatsApp messages right from Telegram)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshettrj/)
