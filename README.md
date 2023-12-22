@@ -2,7 +2,9 @@
 
 * I am a Computer Science Undergraduate at <a href="https://iiit.ac.in">IIIT Hʏᴅᴇʀᴀʙᴀᴅ</a> along with pursuing Masters in NLP.
 * Some of my key skills include - C, C++, Assᴇᴍʙʟʏ (x86), Pʏᴛʜᴏɴ, JᴀᴠᴀSᴄʀɪᴘᴛ, Nᴏᴅᴇ.JS, Gɪᴛ, Lɪɴᴜx, Vɪᴍ, SQL, MᴏɴɢᴏDB, GᴏLᴀɴɢ, Lᴜᴀ, Rᴜsᴛ
-* Check out my project <a href="https://github.com/akshettrj/watgbridge">WaTgBridge</a> (Read and reply to your WhatsApp messages right from Telegram)
+* Check out my projects: 
+  - <a href="https://github.com/akshettrj/watgbridge">WaTgBridge</a> (Read and reply to your WhatsApp messages right from Telegram)
+  - <a href="https://github.com/Propheci/odesli-rs">odesli-rs</a> (Rust wrapper for <a href="https://odesli.co/">Odesli</a> API)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshettrj/)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akshett.rai/)
